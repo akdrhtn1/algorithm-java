@@ -5,4 +5,4 @@
      백트래킹 -> 동적계획법 -> bfs/dfs 순으로 진행할 계획입니다.
 
 #### 소스코드
-  * [평균은 넘겠지](/ArrayJava/src/arraystudy/AboveAverage.java)
+  * [평균은 넘겠지](/arraystudy/AboveAverage.java)
