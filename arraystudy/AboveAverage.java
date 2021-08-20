@@ -58,7 +58,7 @@ public class AboveAverage {
 			System.out.printf("%.3f%%\n",resul);
 		}
 
-		
+		br.close();
 		
 	}
 
