@@ -47,7 +47,7 @@ public class TearTest {
 		   N=9 일 경우 한 블록의 사이즈는 3이듯
 		   해당 블록의 한 칸을 담을 변수를 의미 size
            
-		   count는 별 출력 누적을 의미
+		   count =  별 출력 누적
 		 */
  
 		int size = N / 3;
